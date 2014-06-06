@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3676f904-392f-4af4-a783-1c7a9b81bd56" name="Default" comment="Explaining what my goals are for this situation.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Helton_Michael_WPF.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
+    <ignored path="Helton_Michael_WPF.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Helton_Michael_WPF" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MichaelHelton_06_04_14_WPF_01_ProblemSolving" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problem Solving/MichaelHelton_06_04_14_WPF_01_ProblemSolving">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.57011795" vertical-offset="0" max-vertical-offset="763">
+              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Problem Solving/Problem Solving" />
+        <option value="$PROJECT_DIR$/Problem Solving/MichaelHelton_06_04_14_WPF_01_ProblemSolving" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="30" />
+    <option name="width" value="1400" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Helton_Michael_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Helton_Michael_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Helton_Michael_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem Solving" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="141" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="143" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="146" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="940" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="141" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="143" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="146" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="940" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Problem Solving" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3676f904-392f-4af4-a783-1c7a9b81bd56" name="Default" comment="" />
+      <created>1401939850716</created>
+      <updated>1401939850716</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Explaining what my goals are for this situation.">
+      <created>1401940364978</created>
+      <updated>1401940364978</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Going over what would happen with leaving one with the other.">
+      <created>1401940775236</created>
+      <updated>1401940775236</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Going through one scenario. Throwing the seeds across and the bird will cross on his own.">
+      <created>1401941533762</created>
+      <updated>1401941533762</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Convincing myself that the parrot wouldn't tear open the bag of seeds.">
+      <created>1401941823276</created>
+      <updated>1401941823276</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Thinking about how if were that easy to figure out it probably wouldn't have been given to us.">
+      <created>1401942137242</created>
+      <updated>1401942137242</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Explaining how it's easy to grab 1 pair of socks.">
+      <created>1401999337009</created>
+      <updated>1401999337009</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Agreeing to agree instead of agreeing to disagree with this one.">
+      <created>1401999492577</created>
+      <updated>1401999492577</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Contemplating on whether or not you would place the socks with the same colored socks.">
+      <created>1402017019374</created>
+      <updated>1402017019374</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Knowing where the socks would be located inside of the drawer.">
+      <created>1402017125004</created>
+      <updated>1402017125004</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Pulling out only one pair which would be 2 socks out of the drawer.">
+      <created>1402017324788</created>
+      <updated>1402017324788</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Thinking on how to answer the problem with the little girl.">
+      <created>1402017580913</created>
+      <updated>1402017580913</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Trying to figure out how old the little girl is.">
+      <created>1402017745953</created>
+      <updated>1402017745953</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Guessing that she has to be around 5 or 6 years old.">
+      <created>1402017823377</created>
+      <updated>1402017823377</updated>
+    </task>
+    <task id="LOCAL-00014" summary="I don't believe she will keep the same pattern going.">
+      <created>1402018002575</created>
+      <updated>1402018002575</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Figuring out that her first finger is her index finger.">
+      <created>1402018254926</created>
+      <updated>1402018254926</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Saying if she will keep the same pattern going she will still end up on her index finger.">
+      <created>1402018476498</created>
+      <updated>1402018476499</updated>
+    </task>
+    <task id="LOCAL-00017" summary="If she makes it to a hundred she has done good.">
+      <created>1402018575080</created>
+      <updated>1402018575080</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Wondering if the same pattern would be used.">
+      <created>1402018623025</created>
+      <updated>1402018623025</updated>
+    </task>
+    <task id="LOCAL-00019" summary="If she made it to a hundred yes the same pattern was probably used.">
+      <created>1402018700678</created>
+      <updated>1402018700679</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Making it to a thousand means we have a smart girl on our hands.">
+      <created>1402018765310</created>
+      <updated>1402018765310</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Smart or not the same pattern would have changed along the way.">
+      <created>1402018831105</created>
+      <updated>1402018831105</updated>
+    </task>
+    <task id="LOCAL-00022" summary="No human could keep up the same pattern for that long.">
+      <created>1402018942008</created>
+      <updated>1402018942008</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Mom may have been abducted by aliens.">
+      <created>1402019040868</created>
+      <updated>1402019040868</updated>
+    </task>
+    <task id="LOCAL-00024" summary="If and only if she did make it to a thousand it would be her index finger.">
+      <created>1402019144014</created>
+      <updated>1402019144014</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="30" width="1400" height="860" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996207" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="Explaining what my goals are for this situation." />
+    <MESSAGE value="Going over what would happen with leaving one with the other." />
+    <MESSAGE value="Going through one scenario. Throwing the seeds across and the bird will cross on his own." />
+    <MESSAGE value="Convincing myself that the parrot wouldn't tear open the bag of seeds." />
+    <MESSAGE value="Thinking about how if were that easy to figure out it probably wouldn't have been given to us." />
+    <MESSAGE value="Explaining how it's easy to grab 1 pair of socks." />
+    <MESSAGE value="Agreeing to agree instead of agreeing to disagree with this one." />
+    <MESSAGE value="Contemplating on whether or not you would place the socks with the same colored socks." />
+    <MESSAGE value="Knowing where the socks would be located inside of the drawer." />
+    <MESSAGE value="Pulling out only one pair which would be 2 socks out of the drawer." />
+    <MESSAGE value="Thinking on how to answer the problem with the little girl." />
+    <MESSAGE value="Trying to figure out how old the little girl is." />
+    <MESSAGE value="Guessing that she has to be around 5 or 6 years old." />
+    <MESSAGE value="I don't believe she will keep the same pattern going." />
+    <MESSAGE value="Figuring out that her first finger is her index finger." />
+    <MESSAGE value="Saying if she will keep the same pattern going she will still end up on her index finger." />
+    <MESSAGE value="If she makes it to a hundred she has done good." />
+    <MESSAGE value="Wondering if the same pattern would be used." />
+    <MESSAGE value="If she made it to a hundred yes the same pattern was probably used." />
+    <MESSAGE value="Making it to a thousand means we have a smart girl on our hands." />
+    <MESSAGE value="Smart or not the same pattern would have changed along the way." />
+    <MESSAGE value="No human could keep up the same pattern for that long." />
+    <MESSAGE value="Mom may have been abducted by aliens." />
+    <MESSAGE value="If and only if she did make it to a thousand it would be her index finger." />
+    <option name="LAST_COMMIT_MESSAGE" value="If and only if she did make it to a thousand it would be her index finger." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Problem Solving/MichaelHelton_06_04_14_WPF_01_ProblemSolving">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem Solving/MichaelHelton_06_04_14_WPF_01_ProblemSolving">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57011795" vertical-offset="0" max-vertical-offset="763">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
