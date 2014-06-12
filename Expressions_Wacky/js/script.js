@@ -20,4 +20,6 @@ alert(answer);
 
 //converting square feet into inches
 var squareFeet = prompt("What was the square footage of the room?");
+console.log(squareFeet);
+document.write(squareFeet);
 
