@@ -9,3 +9,4 @@ var myString = prompt("What is the width of the room?");
 var myInt;
 var myFloat;
 
+console.log(roomWidth);
