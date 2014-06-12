@@ -13,17 +13,18 @@ var roomLength = prompt("What is the length of the room?");
 console.log(roomLength);
 
 //Answering in square footage
-answer = roomWidth * roomLength+ " square feet";
+answer = (roomWidth * roomLength+ " square feet");
 console.log(answer);
-document.write(answer);
+
 alert(answer);
 
 //converting square feet into inches
 var squareFeet = prompt("What was the square footage of the room?");
 console.log(squareFeet);
-document.write(squareFeet);
+
 
 //Answering the question
-answer = squareFeet / 12+ " inches";
+answer = (squareFeet / 12+ " inches");
+
 console.log(answer);
 document.write(answer);
