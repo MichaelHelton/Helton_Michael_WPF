@@ -25,3 +25,5 @@ document.write(squareFeet);
 
 //Answering the question
 answer = squareFeet / 12+ " inches";
+console.log(answer);
+document.write(answer);
