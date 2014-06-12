@@ -23,3 +23,5 @@ var squareFeet = prompt("What was the square footage of the room?");
 console.log(squareFeet);
 document.write(squareFeet);
 
+//Answering the question
+answer = squareFeet / 12+ " inches";
