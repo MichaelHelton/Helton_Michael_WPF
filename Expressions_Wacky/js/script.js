@@ -5,8 +5,13 @@ Expressions_Wacky
 */
 
 //Finding the width of the room
-var myString = prompt("What is the width of the room?");
-var myInt;
-var myFloat;
-
+var roomWidth = prompt("What is the width of the room?");
 console.log(roomWidth);
+
+//Finding the length of the room
+var roomLength = prompt("What is the length of the room?");
+console.log(roomLength);
+
+//Answering in square footage
+answer
+
