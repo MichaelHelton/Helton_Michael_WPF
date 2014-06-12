@@ -18,6 +18,7 @@ console.log(answer);
 
 //Alerting the customer with the square footage
 alert(roomWidth * roomLength +" square feet");
+document.write(answer);
 
 
 
