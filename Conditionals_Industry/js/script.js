@@ -18,3 +18,8 @@ if (numOfPages > 10){
 
 //How many images
 var numOfImages = prompt("How many images will be inserted into your website?");
+
+//writing if statement
+if(numOfImages > 10){
+
+}
