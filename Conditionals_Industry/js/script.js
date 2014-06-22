@@ -13,5 +13,5 @@ if (numOfPages > 10){
     console.log("Price increases above 10 pages.");
     //code for false statement
 }else{
-
+    console.log("Price is XX amount for 10 pages.");
 }
