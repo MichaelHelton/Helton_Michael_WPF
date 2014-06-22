@@ -33,5 +33,7 @@ console.log(answer);
 //if statement
 if(kilometersToMiles > 1.60934){
     //writing to console
+    console.log("You have passed a mile");
+    document.write("You have passed a mile");
 
 }
