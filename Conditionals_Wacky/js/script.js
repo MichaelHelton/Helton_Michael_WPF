@@ -15,6 +15,8 @@ console.log(answer);
 alert ("Enter the number you received in the console.");
 
 //writing var for feet to kilometers
-var feetTokilometers = prompt("Enter the feet you received from the console to covert to Kilometers.");
+var feetToKilometers = prompt("Enter the feet you received from the console to covert to Kilometers.");
 //answer to the conversion
 answer = (feetToKilometers * 0.0003048 + " Kilometers");
+//writing to console
+console.log(answer);
