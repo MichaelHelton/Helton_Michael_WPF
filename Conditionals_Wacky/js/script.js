@@ -42,3 +42,6 @@ if(kilometersToMiles > 1.60934){
     //writing tp the document
     document.write("You have to get to 1.60934 Kilometers to reach a mile.");
 }
+
+//alert the user
+alert ("Thank you for playing");
