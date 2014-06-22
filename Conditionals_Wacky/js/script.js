@@ -22,3 +22,6 @@ answer = (feetToKilometers * 0.0003048 + " Kilometers");
 console.log(answer);
 //alerting the user
 alert ("Enter the number you received from the console.");
+
+//writing var for kilometers to miles
+var kilometersToMiles = prompt("Enter the kilometers you received from the console to see if you traveled more than a mile.");
