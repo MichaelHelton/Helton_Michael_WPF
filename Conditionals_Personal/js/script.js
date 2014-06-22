@@ -14,5 +14,6 @@ if(outsideWeather == "Clear"){
     //writing if to the console
     console.log("We will have practice today.");
 }else{
-    //
+    //writing else to console
+    console.log("We will not have practice today.")
 }
