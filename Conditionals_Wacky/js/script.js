@@ -27,3 +27,6 @@ alert ("Enter the number you received from the console.");
 var kilometersToMiles = prompt("Enter the kilometers you received from the console to see if you traveled more than a mile.");
 //answer to the conversion
 answer = (kilometersToMiles * 1.60934 + " Miles");
+//writing to console
+console.log(answer);
+
