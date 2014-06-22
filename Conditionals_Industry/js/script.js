@@ -6,7 +6,7 @@
 
 //How many pages
 var numOfPages = prompt("How many pages do you want on your website?");
-console.log(numOfPages + " pages in website");
+console.log(numOfPages + " pages in website.");
 //writing the if statement
 if (numOfPages > 10){
     //code for true statement
@@ -18,7 +18,7 @@ if (numOfPages > 10){
 
 //How many images
 var numOfImages = prompt("How many images will be inserted into your website?");
-
+console.log(numOfImages + " images inserted into website.")
 //writing if statement
 if(numOfImages > 10){
     //code for true statement
