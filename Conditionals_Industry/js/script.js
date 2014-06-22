@@ -15,3 +15,6 @@ if (numOfPages > 10){
 }else{
     console.log("Price is XX amount for 10 pages.");
 }
+
+//How many images
+var numOfImages = prompt("How many images will be inserted into your website?");
