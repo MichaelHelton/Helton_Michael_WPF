@@ -23,4 +23,7 @@ var numOfImages = prompt("How many images will be inserted into your website?");
 if(numOfImages > 10){
     //code for true statement
     console.log("Price increases above 10 images.");
+    //code for false statement
+}else{
+    console.log("Price includes 10 images.");
 }
