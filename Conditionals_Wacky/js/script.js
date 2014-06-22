@@ -11,3 +11,5 @@ var metersToFeet = prompt("Convert meters to feet");
 answer = (metersToFeet * 3.2808 + " Feet");
 //writing to the console
 console.log(answer);
+//alerting the user
+alert ("Enter the number you received in the console.");
