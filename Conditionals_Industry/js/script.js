@@ -6,7 +6,7 @@
 
 //How many pages
 var numOfPages = prompt("How many pages do you want on your website?");
-
+console.log(numOfPages + " pages in website");
 //writing the if statement
 if (numOfPages > 10){
     //code for true statement
