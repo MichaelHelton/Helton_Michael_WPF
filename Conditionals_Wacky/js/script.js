@@ -13,3 +13,6 @@ answer = (metersToFeet * 3.2808 + " Feet");
 console.log(answer);
 //alerting the user
 alert ("Enter the number you received in the console.");
+
+//writing var for feet to kilometers
+var feetTokilometers = prompt("Enter the feet you received from the console to covert to Kilometers.");
