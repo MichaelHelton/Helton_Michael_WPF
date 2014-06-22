@@ -30,3 +30,8 @@ answer = (kilometersToMiles * 1.60934 + " Miles");
 //writing to console
 console.log(answer);
 
+//if statement
+if(kilometersToMiles > 1.60934){
+    //writing to console
+
+}
