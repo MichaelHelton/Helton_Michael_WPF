@@ -22,5 +22,6 @@ document.write("The circumference of the circle is " + amount);
 //function for calculation
 function calculateCirc(d,p,r)
 {
-
+    //calculating the circumference of the circle
+    return d * p * r
 }
