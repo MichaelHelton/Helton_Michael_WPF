@@ -8,3 +8,10 @@
 var radius = prompt("What is the size of your circle?");
 //writing to the console
 console.log("Your circle is " + radius);
+//pi
+var pi = 3.14;
+//diameter
+var diameter = 2;
+//amount
+var amount = calculateCirc(diameter, radius, pi);
+//writing to the console
