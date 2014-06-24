@@ -18,3 +18,9 @@ var amount = calculateCirc(diameter, radius, pi);
 console.log("The circumference of the circle is " + amount);
 //writing to the document
 document.write("The circumference of the circle is " + amount);
+
+//function for calculation
+function calculateCirc(d,p,r)
+{
+
+}
