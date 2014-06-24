@@ -18,3 +18,10 @@ var amount = calculateStings(weight, stings);
 console.log("It would take " + amount + " bee stings to kill the animal.");
 //writing to document
 document.write("It would take " + amount + " bee stings to kill the animal.");
+
+//function for calculation
+function calculateStings(w,s)
+{
+    //calculating the weight times the stings it would take to kill the animal
+    return w * s;
+}
