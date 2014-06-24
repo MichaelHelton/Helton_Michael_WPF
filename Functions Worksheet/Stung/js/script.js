@@ -13,3 +13,8 @@ var stings = 8.666666667;
 
 //amount of stings calculated against weight
 var amount = calculateStings(weight, stings);
+
+//writing to console
+console.log("It would take " + amount + " bee stings to kill the animal.");
+//writing to document
+document.write("It would take " + amount + " bee stings to kill the animal.");
