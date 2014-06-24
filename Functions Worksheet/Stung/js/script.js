@@ -6,3 +6,4 @@
 
 //prompting user for the weight of their animal
 var weight = prompt("What is the weight of your animal?");
+console.log("Your animal weighs " + weight + " pounds.");

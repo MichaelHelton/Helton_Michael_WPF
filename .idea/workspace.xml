@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3676f904-392f-4af4-a783-1c7a9b81bd56" name="Default" comment="Explaining what my goals are for this situation." />
+    <list default="true" id="3676f904-392f-4af4-a783-1c7a9b81bd56" name="Default" comment="Explaining what my goals are for this situation.">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions Worksheet/Stung/js/script.js" afterPath="$PROJECT_DIR$/Functions Worksheet/Stung/js/script.js" />
+    </list>
     <ignored path="Helton_Michael_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,8 +38,8 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions Worksheet/Stung/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13761468" vertical-offset="0" max-vertical-offset="763">
-              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+            <state vertical-scroll-proportion="0.15727392" vertical-offset="0" max-vertical-offset="763">
+              <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -736,8 +738,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions Worksheet/Stung/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13761468" vertical-offset="0" max-vertical-offset="763">
-          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.15727392" vertical-offset="0" max-vertical-offset="763">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
           <folding />
         </state>
       </provider>
