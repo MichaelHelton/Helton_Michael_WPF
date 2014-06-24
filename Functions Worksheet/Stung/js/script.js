@@ -10,3 +10,6 @@ console.log("Your animal weighs " + weight + " pounds.");
 
 //number of bee stings
 var stings = 8.666666667;
+
+//amount of stings calculated against weight
+var amount = calculateStings(weight, stings);
